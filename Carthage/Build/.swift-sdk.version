@@ -1,0 +1,74 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2.3.0",
+  "iOS" : [
+    {
+      "name" : "AssistantV2",
+      "hash" : "7fcb7c9639fc44cf45fdac9c3f1ee63e42cddd60f58921689277d41deb35a079",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "PersonalityInsightsV3",
+      "hash" : "e12fd05082dd299af022a724f4932384f365fb9be0725b367c8bdb137585faa9",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "AssistantV1",
+      "hash" : "797e0e1be4207891491d68e3ecd05dc461e29c1a039c2f7cbcdb54bbc11417a8",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "LanguageTranslatorV3",
+      "hash" : "3d64b32856aa5b563ccc28ace3d30298c956099f2d403568138ab6c3b09a9930",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "NaturalLanguageClassifierV1",
+      "hash" : "7107ce7b7aca86909391d22c2feb6fa759bf23039070570ae94032dc06654a41",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "ToneAnalyzerV3",
+      "hash" : "a58edcfdce44a7ed727a9397e2bcbbaad37c13326d6d51ab2d2837e6d3a633c8",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "VisualRecognitionV3",
+      "hash" : "24fbed0d72958088d4be7ee697ff34d2c476d5c8c37b99d632722df07cd40f19",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "TextToSpeechV1",
+      "hash" : "bd14ce661f203268042bdde86c451a9301572ab06c2142340882741c03ca2886",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "CompareComplyV1",
+      "hash" : "f507b59d17257153983a12fd5c3fdc0e918c91781d9ce5db9a1ccddd3c3b83c5",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "NaturalLanguageUnderstandingV1",
+      "hash" : "a6981da96604d19d62a0c45b2687edff315fdc42a389b1601edd0cb1a7c442b1",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "SpeechToTextV1",
+      "hash" : "40707a9db8ad11209ed7f0ea09ffa1edfbe8ebf72447dfc3a1f2e0a93ceec59f",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "DiscoveryV1",
+      "hash" : "19b098fa41aa7e9a951dac5fee972d3ba0d714f3531a6f6cc6c6a2aa85a9f978",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}

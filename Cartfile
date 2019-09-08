@@ -1,0 +1,2 @@
+github "watson-developer-cloud/swift-sdk" ~> 2.3.0
+github "SVProgressHUD/SVProgressHUD"
